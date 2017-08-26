@@ -8,7 +8,13 @@
 
 import UIKit
 
+<<<<<<< HEAD
 test 01
+=======
+깃허브
+
+테스트 02
+>>>>>>> 0f8a65aad47434299d64d2155f4efe482d56962e
 
 class ViewController: UIViewController {
 
