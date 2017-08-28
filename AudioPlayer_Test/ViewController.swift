@@ -19,6 +19,8 @@ test 01
 
 리셋 후 테스트
 
+리셋 후 테스트 02
+
 
 class ViewController: UIViewController {
 
